@@ -1,2 +1,1 @@
-# legged-state-stimation
-legged state estimation
+# legged state estimation
